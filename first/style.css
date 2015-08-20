@@ -1,0 +1,31 @@
+
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+}
+
+.background {
+	height: 100%;
+	width: 100%;
+	background-color: #D8D8D8;
+}
+
+header {
+	height: 20%;
+	background-color: #444444;
+}
+
+.main {
+	height: 70%;
+	width: 70%;
+	margin: 0 auto;
+	background-color: #EFEFEF;
+}
+
+footer {
+	height: 10%;
+	width: 70%;
+	margin: 0 auto;
+	background-color: #222222;
+}
